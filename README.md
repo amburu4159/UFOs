@@ -26,6 +26,6 @@ Here are a few screenshots showing the filtering options as they are on the webs
 
 ## Summary - Recommendations
 
-o   An area for improvement is when it comes to filters. The user needs to know exactly what they're looking for withing the available filters. They also need to know how to spell it correctly, otherwise it will not show up. 
-o   One way to improve this design would be to create a dropdown, multi-selectable list that would allow users to click and choose whatever they're looking for.
-o   Once, data is entered into the search criteria, there is no easy way to clear that input. Another area for improvement would be to create a "Clear Search" button that clears the searches easily
+1.   An area for improvement is when it comes to filters. The user needs to know exactly what they're looking for withing the available filters. They also need to know how to spell it correctly, otherwise it will not show up. 
+2.   One way to improve this design would be to create a dropdown, multi-selectable list that would allow users to click and choose whatever they're looking for.
+3.   Once, data is entered into the search criteria, there is no easy way to clear that input. Another area for improvement would be to create a "Clear Search" button that clears the searches easily
