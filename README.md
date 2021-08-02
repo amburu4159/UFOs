@@ -17,10 +17,11 @@ o    Users can filter the website using 5 different filters listed below
 ###
 Here are a few screenshots showing the filtering options as they are on the website
 
+Enter your search criteria
 ![Website Filters](https://github.com/amburu4159/UFOs/blob/main/static/images/Website%20filters.PNG)
 
-
-![Website Refresher](static/images/Website Refresher.PNG)
+How to refresh the page
+![Website Refresher](https://github.com/amburu4159/UFOs/blob/main/static/images/Website%20Refresher.PNG)
 
 
 
